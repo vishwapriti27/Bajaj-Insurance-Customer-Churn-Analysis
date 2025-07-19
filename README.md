@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/cacb54e8-f235-4bf7-86bf-6c89808bed97
 
 # Introduction:
 
-This project analyzes customer churn behavior for Bajaj Finserv insurance products (Life, Health, Travel, and Pocket Insurance).
+This real project analyzes customer churn behavior for Bajaj Finserv insurance products (Life, Health, Travel, and Pocket Insurance).
 The goal is to identify key churn drivers and provide data-driven retention strategies to improve customer behaviour.
 
 Asuming, Bajaj Finserv faces high customer churn, especially for short-term insurance products like Travel & Pocket Insurance and wants to analyse its customers data to gain insights and make informed decisions. 
