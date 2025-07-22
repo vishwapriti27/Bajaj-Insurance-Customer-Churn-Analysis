@@ -9,28 +9,28 @@ https://github.com/user-attachments/assets/cacb54e8-f235-4bf7-86bf-6c89808bed97
 This real project analyzes customer churn behavior for Bajaj Finserv insurance products (Life, Health, Travel, and Pocket Insurance).
 The goal is to identify key churn drivers and provide data-driven retention strategies to improve customer behaviour.
 
-Asuming, Bajaj Finserv faces high customer churn, especially for short-term insurance products like Travel & Pocket Insurance and wants to analyse its customers data to gain insights and make informed decisions. 
+Assuming, Bajaj Finserv faces high customer churn, especially for short-term insurance products like Travel & Pocket Insurance, and wants to analyse its customers' data to gain insights and make informed decisions. 
 
 ## The business challenge:
 How can Bajaj Finserv provide personalized, affordable, and accessible insurance solutions to a diverse customer base across India while improving customer retention through digital transformation?
 
 ##  I identified the following questions as important for their customer churn analysis:
 
-. Why customer is churning?
+. Why is churning?
 
-. What factor lead to churn?
+. What factor leads to churn?
 
-. In which occupations/locations/Income customer churn more?
+. In which occupations/locations/Income does customer churn more?
 
-. Is there high-value customer like (Business Owner, IT professionals) also churning?
+. Are there high-value customers, like Business Owners, IT professionals? Also churning?
 
-. In which Bajaj Insurance Product customer most likely to churn? And why?
+. Which Bajaj Insurance Product customer is most likely to churn? And why?
 
-. Who are at high-risk? and how to prevent them?
+. Who is at high-risk? And how to prevent them?
 
-. Is lower income customer paying more for short-term insurance plan which leads to churn?
+. Are income customers paying more for short-term insurance plans, which leads to churn?
 
-## Workflow follow in this customize project is :
+## Workflow follows in this customized project is :
 
 Tools & Tech: 
 
@@ -44,7 +44,7 @@ Data Collection & Preparation:
 
 Step 1:
 
-I explored Bajaj Finserv official website to understand real product offerings, such as Life Insurance, Health Insurance with coverage values, Travel Insurance with pricing based on age & travel days, Pocket Insurance with micro-coverage options.
+I explored Bajaj Finserv's official website to understand real product offerings, such as Life Insurance, Health Insurance with coverage values, Travel Insurance with pricing based on age & travel days, and Pocket Insurance with micro-coverage options.
 
 Step 2:
 
@@ -72,7 +72,7 @@ Product Type → Coverage Amount → Premium
 
 Region Tier & Location Type → Churn Probability
 
-Added business-driven noise like outliers & missing values to mimic real-world data quality issue.
+Added business-driven noise like outliers & missing values to mimic real-world data quality issues.
 
 Step 4:
 
@@ -84,17 +84,17 @@ Removed extreme outliers beyond business logic thresholds.
 
 Created new derived features using Python scripts
 
-Chruned based on business problem
+Churned based on business problem
 
 Churn Risk Score & Churn risk level(High/Medium/Low Churn Segments)
 
 Step 5:
 
-Once data is transformed and ready for analysis, load it into the Power BI Desktop application by establishing a connection with the MySQL database. After importing data perform exploratory data analysis to find trends and patterns within data. 
-Create interactive dashboards focusing on different aspects like customer churn overview by (Product, Region, Income Group), Churn Risk Segmentation, Retention trend. Used visuals like bar chart, doughnut chart, and line chart to visualise the data and slicers to apply filters and make the dashboard interactive. At the end proposed insights & suggestions to reduce customer churn of Bajaj Finserv.
+Once data is transformed and ready for analysis, load it into the Power BI Desktop application by establishing a connection with the MySQL database. After importing data, perform exploratory data analysis to find trends and patterns within data. 
+Create interactive dashboards focusing on different aspects like customer churn overview by (Product, Region, Income Group), Churn Risk Segmentation, Retention trend. Used visuals like bar chart, doughnut chart, and line chart to visualise the data and slicers to apply filters and make the dashboard interactive. At the end, proposed insights & suggestions to reduce customer churn of Bajaj Finserv.
 
 
-This project aims to provide the Bajaj Finserv with actionable insights that can help them make informed decisions about their 10–15% churn reduction, 20% higher renewals for Travel & Pocket Insurance, and Revenue protection for high-value urban customers.
+This project aims to provide Bajaj Finserv with actionable insights that can help them make informed decisions about their 10–15% churn reduction, 20% higher renewals for Travel & Pocket Insurance, and Revenue protection for high-value urban customers.
 
 
 
