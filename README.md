@@ -1,4 +1,4 @@
-# Bajaj-Insurance-Customer-Churn-Analysis
+#### End-to-end churn analysis for Bajaj Finserv insurance customers using Python, SQL, and Power BI — uncovering churn drivers, risk segments, and actionable retention strategies through predictive analytics to reduce 10–15% churn and boost retention.
 
 # Project Demo
 
